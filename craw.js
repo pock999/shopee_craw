@@ -63,4 +63,3 @@ for(isEnd = 0 ; isEnd<1; isEnd+=0) {
 }
 
 console.log('result => ', result);
-console.log('result.length => ', result.length);

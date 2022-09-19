@@ -40,4 +40,3 @@ for(let i=0; i<=totalCount ; i+=60) {
 }
 
 console.log('result => ', result);
-console.log('result.length => ', result.length);
